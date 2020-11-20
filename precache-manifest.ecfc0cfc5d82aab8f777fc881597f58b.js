@@ -1,31 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d36c59cdac552863ec75d79959ba4161",
+    "revision": "300e0b2869cd276a69b3e9e0dc8d8f92",
     "url": "/me/index.html"
   },
   {
-    "revision": "99890dec8d4c12a52bfe",
+    "revision": "b769461b501bc415163b",
     "url": "/me/static/css/2.242f24fe.chunk.css"
   },
   {
-    "revision": "f388f35e60bdaf7995ac",
-    "url": "/me/static/css/main.ce03c453.chunk.css"
+    "revision": "dcc6775a16c084f4afb2",
+    "url": "/me/static/css/main.33c35772.chunk.css"
   },
   {
-    "revision": "99890dec8d4c12a52bfe",
-    "url": "/me/static/js/2.c48525bf.chunk.js"
+    "revision": "b769461b501bc415163b",
+    "url": "/me/static/js/2.b01a3c19.chunk.js"
   },
   {
     "revision": "f2e097a5fa04a5d1b01656a6cd1a1a1a",
-    "url": "/me/static/js/2.c48525bf.chunk.js.LICENSE"
+    "url": "/me/static/js/2.b01a3c19.chunk.js.LICENSE"
   },
   {
-    "revision": "f388f35e60bdaf7995ac",
-    "url": "/me/static/js/main.e3da848a.chunk.js"
+    "revision": "dcc6775a16c084f4afb2",
+    "url": "/me/static/js/main.5ad240fd.chunk.js"
   },
   {
     "revision": "8b0c091f86858c06a62d",
     "url": "/me/static/js/runtime-main.fd768588.js"
+  },
+  {
+    "revision": "ee966c17f10e9ee03086058583f62a1a",
+    "url": "/me/static/media/Pawan-React-js-Developer.ee966c17.pdf"
+  },
+  {
+    "revision": "39944f20b44a8850882fa6ed53078a00",
+    "url": "/me/static/media/algo.39944f20.jpg"
+  },
+  {
+    "revision": "1a2a486c95a4bf5e226bed641b1ea522",
+    "url": "/me/static/media/css.1a2a486c.jpeg"
   },
   {
     "revision": "67af05e12311bac06327b43ca31e166b",
@@ -50,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/me/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "1d66013f5f896dd5e206885495fb564c",
+    "url": "/me/static/media/html.1d66013f.png"
   },
   {
     "revision": "768998c65ce07675ede8536017d4f6ce",
@@ -92,6 +108,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/me/static/media/ionicons.621bd386.svg"
   },
   {
+    "revision": "b591dcb3477b3001be04172305e91960",
+    "url": "/me/static/media/js1.b591dcb3.png"
+  },
+  {
     "revision": "a82ab1cd3c28c0a07a4932d57176cb88",
     "url": "/me/static/media/male.a82ab1cd.png"
   },
@@ -102,5 +122,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bd80794fddbffb4031fab537cc898680",
     "url": "/me/static/media/myImage.bd80794f.png"
+  },
+  {
+    "revision": "8614e1a4b4b46891877d6ad39768d6b6",
+    "url": "/me/static/media/rails.8614e1a4.png"
+  },
+  {
+    "revision": "88e3eed74c1385434c629be838982c6e",
+    "url": "/me/static/media/react_js.88e3eed7.png"
+  },
+  {
+    "revision": "ac4f98855e92e49fbc94ea8769fb681c",
+    "url": "/me/static/media/rf.ac4f9885.jpg"
   }
 ]);
