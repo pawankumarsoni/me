@@ -4,9 +4,9 @@ import React from "react";
 import stock from "../img/image1.jpg";
 import stock1 from "../img/image2.jpg";
 import stock2 from "../img/image3.jpg";
-import stock3 from "../img/image4.jpg";
-import stock4 from "../img/image5.jpg";
-import stock5 from "../img/image6.jpg";
+import stock3 from "../img/sair.png";
+import stock4 from "../img/rf.jpg";
+import stock5 from "../img/sam.jpeg";
 import './custom.scss'
 class Portfolio extends React.Component {
     render() {
@@ -26,36 +26,34 @@ class Portfolio extends React.Component {
                     </div>
                     <div className="row">
                         <div className="col-12 col-sm-4">
-                            <div className="margin_t_35 margin_b_100 shop_over">
+                            <div className="margin_t_35 margin_b_100 shop_over project">
+                            <a href="https://raja-fashions.com" target="_blank">
                                 <div className="store_img" style={{ backgroundImage: `url(${stock4})` }} >
                                 </div>
                                 <div className="p_15">
                                     <div className="lead">
                                         <strong>Raja Fashions</strong>
                                     </div>
-                                    <div className="desp_content_2 margin_t_0">
-                                        <a href="https://raja-fashions.com" target="_blank">check here</a>
-                                    </div>
                                 </div>
+                                </a>
                             </div>
                         </div>
                         <div className="col-12 col-sm-4">
-                            <div className="margin_t_35 margin_b_100 shop_over">
-                                <div className="store_img" style={{ backgroundImage: `url(${stock4})` }} >
+                            <div className="margin_t_35 margin_b_100 shop_over project">
+                            <a href="https://samthingelse.com" target="_blank">
+                                <div className="store_img" style={{ backgroundImage: `url(${stock5})` }} >
                                 </div>
                                 <div className="p_15">
                                     <div className="lead">
                                         <strong>Sam's</strong>
                                     </div>
-                                    <div className="desp_content_2 margin_t_0">
-                                        <a href="https://samthingelse.com" target="_blank">check here</a>
-                                    </div>
                                 </div>
+                                </a>
                             </div>
                         </div>
                         <div className="col-12 col-sm-4">
-                            <div className="margin_t_35 margin_b_100 shop_over">
-                                <div className="store_img" style={{ backgroundImage: `url(${stock4})` }} >
+                            <div className="margin_t_35 margin_b_100 shop_over project">
+                                <div className="store_img" style={{ backgroundImage: `url(${stock3})` }} >
                                 </div>
                                 <div className="p_15">
                                     <div className="lead">

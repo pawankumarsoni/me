@@ -17,7 +17,7 @@ import 'popper.js/dist/popper.min.js';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import './libs/easing.js';
 import 'lightbox2/dist/js/lightbox.min.js';
-
+import './components/custom.scss'
 import * as serviceWorker from './serviceWorker';
 
 //import components

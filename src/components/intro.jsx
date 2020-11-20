@@ -1,6 +1,7 @@
 import React from "react";
 import "./stars.scss";
 import Typed from "react-typed";
+import cv from '../files/Pawan-React-js-Developer.pdf';
 
 class Intro extends React.Component {
   render() {
@@ -34,6 +35,14 @@ class Intro extends React.Component {
               <p className="pt-3">
                 <a
                   className="btn btn-primary btn js-scroll px-4"
+                  href={cv}
+                  role="button"
+                  target="_blank"
+                >
+                  View My CV
+                </a>
+                <a
+                  className="btn btn-primary btn js-scroll px-4 m_l_15"
                   href="#work"
                   role="button"
                 >
