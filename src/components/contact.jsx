@@ -1,5 +1,6 @@
 import React from "react";
 import imageOverlay from "../img/earth.jpg";
+import mail from "../img/mail.jpg";
 
 class Contact extends React.Component {
   render() {
@@ -135,7 +136,7 @@ class Contact extends React.Component {
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
-                                <i className="ion-social-codepen"></i>
+                                <img src={mail} width="27" />
                               </span>
                             </a>
                           </li>
