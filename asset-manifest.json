@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/me/static/css/main.33c35772.chunk.css",
-    "main.js": "/me/static/js/main.5ad240fd.chunk.js",
-    "main.js.map": "/me/static/js/main.5ad240fd.chunk.js.map",
+    "main.js": "/me/static/js/main.8379e032.chunk.js",
+    "main.js.map": "/me/static/js/main.8379e032.chunk.js.map",
     "runtime-main.js": "/me/static/js/runtime-main.fd768588.js",
     "runtime-main.js.map": "/me/static/js/runtime-main.fd768588.js.map",
     "static/css/2.242f24fe.chunk.css": "/me/static/css/2.242f24fe.chunk.css",
-    "static/js/2.b01a3c19.chunk.js": "/me/static/js/2.b01a3c19.chunk.js",
-    "static/js/2.b01a3c19.chunk.js.map": "/me/static/js/2.b01a3c19.chunk.js.map",
+    "static/js/2.cc34179a.chunk.js": "/me/static/js/2.cc34179a.chunk.js",
+    "static/js/2.cc34179a.chunk.js.map": "/me/static/js/2.cc34179a.chunk.js.map",
     "index.html": "/me/index.html",
-    "precache-manifest.ecfc0cfc5d82aab8f777fc881597f58b.js": "/me/precache-manifest.ecfc0cfc5d82aab8f777fc881597f58b.js",
+    "precache-manifest.c25a02264b20634377996e131b06ba83.js": "/me/precache-manifest.c25a02264b20634377996e131b06ba83.js",
     "service-worker.js": "/me/service-worker.js",
     "static/css/2.242f24fe.chunk.css.map": "/me/static/css/2.242f24fe.chunk.css.map",
     "static/css/main.33c35772.chunk.css.map": "/me/static/css/main.33c35772.chunk.css.map",
-    "static/js/2.b01a3c19.chunk.js.LICENSE": "/me/static/js/2.b01a3c19.chunk.js.LICENSE",
+    "static/js/2.cc34179a.chunk.js.LICENSE": "/me/static/js/2.cc34179a.chunk.js.LICENSE",
     "static/media/Pawan-React-js-Developer.pdf": "/me/static/media/Pawan-React-js-Developer.ee966c17.pdf",
     "static/media/algo.jpg": "/me/static/media/algo.39944f20.jpg",
     "static/media/css.jpeg": "/me/static/media/css.1a2a486c.jpeg",
@@ -28,6 +28,7 @@
     "static/media/image6.jpg": "/me/static/media/image6.62b7cc75.jpg",
     "static/media/ionicons.css": "/me/static/media/ionicons.621bd386.svg",
     "static/media/js1.png": "/me/static/media/js1.b591dcb3.png",
+    "static/media/mail.jpg": "/me/static/media/mail.d23f8dd2.jpg",
     "static/media/male.png": "/me/static/media/male.a82ab1cd.png",
     "static/media/male1.png": "/me/static/media/male1.3ec3891b.png",
     "static/media/myImage.png": "/me/static/media/myImage.bd80794f.png",
@@ -38,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.fd768588.js",
     "static/css/2.242f24fe.chunk.css",
-    "static/js/2.b01a3c19.chunk.js",
+    "static/js/2.cc34179a.chunk.js",
     "static/css/main.33c35772.chunk.css",
-    "static/js/main.5ad240fd.chunk.js"
+    "static/js/main.8379e032.chunk.js"
   ]
 }
